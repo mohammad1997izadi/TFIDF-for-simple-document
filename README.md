@@ -1,5 +1,3 @@
-# TFIDF-for-simple-document
-calculating TFIDF for simple document contains 10 terms. next ranking terms based on input query
+# TF-IDF for a Simple Document
 
-# Author Email : mohammad1997izadi@gmail.com
-# Author Name : Mohammad Izadi
+This project calculates the Term Frequency-Inverse Document Frequency (TF-IDF) for a simple document containing 10 terms. It then ranks the terms based on a given input query.
